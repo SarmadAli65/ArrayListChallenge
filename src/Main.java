@@ -44,7 +44,7 @@ public class Main {
         String textblock = """
                 Available actions:
                                 
-                0 - to shutdown
+                0 - to shutdown hjkkh
                                 
                 1 - to add item(s) to list (comma delimited list)
                                 
